@@ -1,0 +1,6 @@
+# Create a new directory for your project
+mkdir md-asif-entertainment
+cd md-asif-entertainment
+
+# Initialize a new git repository
+git init
